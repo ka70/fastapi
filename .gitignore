@@ -1,0 +1,20 @@
+# System files
+.bash_history
+
+# Cache directories
+.cache
+.local
+.mypy_cache
+
+# .NET cache
+.dotnet
+
+# SSH configuration
+.ssh
+
+# VS Code settings
+.vscode
+.vscode-server
+
+# User-specific Git configuration
+.gitconfig
